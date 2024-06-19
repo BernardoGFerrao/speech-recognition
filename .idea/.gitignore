@@ -1,0 +1,8 @@
+# Default ignored files
+/../../speech-recognition       /.idea/shelf/
+/../../speech-recognition       /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../speech-recognition       /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../speech-recognition       /.idea/dataSources/
+/../../speech-recognition       /.idea/dataSources.local.xml
